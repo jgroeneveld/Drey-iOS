@@ -1,0 +1,538 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* drey */ = {
+		activeExec = 0;
+		executables = (
+			8EC983121292BD1A00C1D92A /* drey */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* dreyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1054, 2268}}";
+			sepNavSelRange = "{3154, 0}";
+			sepNavVisRange = "{3058, 259}";
+			sepNavWindowFrame = "{{191, 117}, {823, 967}}";
+		};
+	};
+	1F3B9A820EF2151B00286867 /* drey_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 729}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRange = "{0, 213}";
+			sepNavWindowFrame = "{{302, 50}, {721, 865}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8EC983121292BD1A00C1D92A /* drey */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* drey */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* drey */,
+		);
+		breakpoints = (
+			8EAD2D251295DB3600EF1E3F /* GameScene.m:44 */,
+			8E876A4112AC1AA400D99439 /* Appirater.m:108 */,
+		);
+		codeSenseManager = 8EC9831D1292BD1D00C1D92A /* Code sense */;
+		executables = (
+			8EC983121292BD1A00C1D92A /* drey */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 313342743;
+			PBXWorkspaceStateSaveDate = 313342743;
+		};
+		sourceControlManager = 8EC9831C1292BD1D00C1D92A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 844}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 364}";
+			sepNavWindowFrame = "{{141, 105}, {1078, 957}}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	50F414ED1069373D002A0D5E /* fps_images.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{279, 71}, {721, 865}}";
+		};
+	};
+	50F414EF1069373D002A0D5E /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1001, 87}, {834, 790}}";
+		};
+	};
+	8E58ED0512934D5D00E7BCAC /* CreditsLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 812}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	8E58ED0612934D5D00E7BCAC /* CreditsLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 868}}";
+			sepNavSelRange = "{229, 0}";
+			sepNavVisRange = "{0, 1660}";
+			sepNavWindowFrame = "{{64, 173}, {1078, 957}}";
+		};
+	};
+	8E58ED0A12934DC200E7BCAC /* CreditsScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 812}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	8E58ED0B12934DC200E7BCAC /* CreditsScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 812}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{0, 375}";
+			sepNavWindowFrame = "{{118, 158}, {628, 925}}";
+		};
+	};
+	8E876A2412AC176500D99439 /* Appirater.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {764, 2716}}";
+			sepNavSelRange = "{4391, 0}";
+			sepNavVisRange = "{2885, 2460}";
+			sepNavWindowFrame = "{{95, 137}, {823, 967}}";
+		};
+	};
+	8E876A2512AC176500D99439 /* Appirater.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {764, 5362}}";
+			sepNavSelRange = "{2466, 1}";
+			sepNavVisRange = "{1160, 2273}";
+		};
+	};
+	8E876A4112AC1AA400D99439 /* Appirater.m:108 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8E876A2512AC176500D99439 /* Appirater.m */;
+		functionName = "-showRatingAlert";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 108;
+		location = Drey;
+		modificationTime = 313268922.734611;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8EA8E42512936874003A3C96 /* Entitlements.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1234, 70}, {628, 925}}";
+		};
+	};
+	8EAD2C881295C40D00EF1E3F /* AIPlayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 885}}";
+			sepNavSelRange = "{334, 0}";
+			sepNavVisRange = "{0, 360}";
+		};
+	};
+	8EAD2C891295C40D00EF1E3F /* AIPlayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 885}}";
+			sepNavSelRange = "{362, 0}";
+			sepNavVisRange = "{0, 398}";
+			sepNavWindowFrame = "{{72, 127}, {765, 998}}";
+		};
+	};
+	8EAD2CA61295C5F100EF1E3F /* AIPlayerWeak.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 844}}";
+			sepNavSelRange = "{225, 0}";
+			sepNavVisRange = "{0, 234}";
+			sepNavWindowFrame = "{{455, 96}, {1078, 957}}";
+		};
+	};
+	8EAD2CA71295C5F100EF1E3F /* AIPlayerWeak.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {690, 2534}}";
+			sepNavSelRange = "{2915, 0}";
+			sepNavVisRange = "{2226, 1618}";
+			sepNavWindowFrame = "{{278, 17}, {749, 1113}}";
+		};
+	};
+	8EAD2D251295DB3600EF1E3F /* GameScene.m:44 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8EC983741292C56000C1D92A /* GameScene.m */;
+		functionName = "+gameWithAI:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 44;
+		location = Drey;
+		modificationTime = 313268905.4844469;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8EC55B6212930CE70017CFF3 /* Icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{141, 272}, {834, 790}}";
+		};
+	};
+	8EC983121292BD1A00C1D92A /* drey */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = drey;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8EC9831C1292BD1D00C1D92A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8EC9831D1292BD1D00C1D92A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8EC983451292C2C700C1D92A /* emptyField-hd.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{72, 260}, {721, 865}}";
+		};
+	};
+	8EC983461292C2C700C1D92A /* p1Field-hd.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{118, 218}, {721, 865}}";
+		};
+	};
+	8EC9835A1292C44900C1D92A /* p1Field.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{141, 197}, {721, 865}}";
+		};
+	};
+	8EC9835B1292C44900C1D92A /* p2Field.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{233, 113}, {721, 865}}";
+		};
+	};
+	8EC983731292C56000C1D92A /* GameScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {690, 1000}}";
+			sepNavSelRange = "{241, 81}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	8EC983741292C56000C1D92A /* GameScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {690, 1000}}";
+			sepNavSelRange = "{470, 0}";
+			sepNavVisRange = "{0, 689}";
+			sepNavWindowFrame = "{{72, 12}, {749, 1113}}";
+		};
+	};
+	8EC983761292C57B00C1D92A /* GameLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 844}}";
+			sepNavSelRange = "{437, 0}";
+			sepNavVisRange = "{0, 688}";
+			sepNavWindowFrame = "{{64, 173}, {1078, 957}}";
+		};
+	};
+	8EC983771292C57B00C1D92A /* GameLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 3570}}";
+			sepNavSelRange = "{1745, 0}";
+			sepNavVisRange = "{551, 2123}";
+			sepNavWindowFrame = "{{64, 173}, {1078, 957}}";
+		};
+	};
+	8EC983931292CA3000C1D92A /* Globals.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 844}}";
+			sepNavSelRange = "{333, 47}";
+			sepNavVisRange = "{0, 873}";
+			sepNavWindowFrame = "{{118, 218}, {721, 865}}";
+		};
+	};
+	8EC983941292CA3000C1D92A /* Globals.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 844}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 674}";
+			sepNavWindowFrame = "{{264, 170}, {1078, 957}}";
+		};
+	};
+	8EC983A11292CAD100C1D92A /* Field.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 752}}";
+			sepNavSelRange = "{454, 0}";
+			sepNavVisRange = "{0, 782}";
+			sepNavWindowFrame = "{{321, 137}, {721, 865}}";
+		};
+	};
+	8EC983A21292CAD100C1D92A /* Field.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {678, 3038}}";
+			sepNavSelRange = "{3912, 0}";
+			sepNavVisRange = "{3682, 422}";
+			sepNavWindowFrame = "{{1040, 591}, {737, 539}}";
+		};
+	};
+	8EC983D41292D02B00C1D92A /* FieldChild.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 752}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{0, 374}";
+			sepNavWindowFrame = "{{915, 177}, {721, 865}}";
+		};
+	};
+	8EC983D51292D02B00C1D92A /* FieldChild.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 1078}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{171, 1327}";
+			sepNavWindowFrame = "{{437, 163}, {721, 865}}";
+		};
+	};
+	8ED3F1C91293243100875003 /* MenuScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 812}}";
+			sepNavSelRange = "{186, 7}";
+			sepNavVisRange = "{0, 206}";
+		};
+	};
+	8ED3F1CA1293243100875003 /* MenuScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 812}}";
+			sepNavSelRange = "{199, 0}";
+			sepNavVisRange = "{0, 361}";
+			sepNavWindowFrame = "{{778, 156}, {628, 925}}";
+		};
+	};
+	8ED3F1DA1293246400875003 /* MenuLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 812}}";
+			sepNavSelRange = "{411, 0}";
+			sepNavVisRange = "{0, 682}";
+		};
+	};
+	8ED3F1DB1293246400875003 /* MenuLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 2758}}";
+			sepNavSelRange = "{1759, 26}";
+			sepNavVisRange = "{807, 2169}";
+			sepNavWindowFrame = "{{598, 186}, {628, 925}}";
+		};
+	};
+	E02BB76F126CC223006E46A2 /* CCActionInstant.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 2590}}";
+			sepNavSelRange = "{2352, 20}";
+			sepNavVisRange = "{1679, 1074}";
+			sepNavWindowFrame = "{{118, 218}, {721, 865}}";
+		};
+	};
+	E02BB770126CC223006E46A2 /* CCActionInstant.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 6104}}";
+			sepNavSelRange = "{4852, 0}";
+			sepNavVisRange = "{4154, 821}";
+			sepNavWindowFrame = "{{95, 239}, {721, 865}}";
+		};
+	};
+	E02BB771126CC223006E46A2 /* CCActionInterval.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 5418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1436, 1679}";
+		};
+	};
+	E02BB772126CC223006E46A2 /* CCActionInterval.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 16618}}";
+			sepNavSelRange = "{18409, 0}";
+			sepNavVisRange = "{17863, 1020}";
+			sepNavWindowFrame = "{{72, 260}, {721, 865}}";
+		};
+	};
+	E02BB789126CC223006E46A2 /* ccConfig.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 3794}}";
+			sepNavSelRange = "{7385, 0}";
+			sepNavVisRange = "{6466, 1788}";
+			sepNavWindowFrame = "{{95, 239}, {721, 865}}";
+		};
+	};
+	E02BB78C126CC223006E46A2 /* CCDirector.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 4158}}";
+			sepNavSelRange = "{6966, 0}";
+			sepNavVisRange = "{6149, 1770}";
+			sepNavWindowFrame = "{{847, 153}, {721, 865}}";
+		};
+	};
+	E02BB78D126CC223006E46A2 /* CCDirector.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 7868}}";
+			sepNavSelRange = "{2949, 31}";
+			sepNavVisRange = "{2353, 1182}";
+		};
+	};
+	E02BB79B126CC223006E46A2 /* CCLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 5992}}";
+			sepNavSelRange = "{5690, 29}";
+			sepNavVisRange = "{8484, 1017}";
+			sepNavWindowFrame = "{{64, 173}, {1078, 957}}";
+		};
+	};
+	E02BB79C126CC223006E46A2 /* ccMacros.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 3248}}";
+			sepNavSelRange = "{2169, 0}";
+			sepNavVisRange = "{1618, 1690}";
+			sepNavWindowFrame = "{{95, 147}, {1078, 957}}";
+		};
+	};
+	E02BB79D126CC223006E46A2 /* CCMenu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 1204}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1908}";
+			sepNavWindowFrame = "{{256, 32}, {628, 925}}";
+		};
+	};
+	E02BB79E126CC223006E46A2 /* CCMenu.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {569, 7000}}";
+			sepNavSelRange = "{1767, 45}";
+			sepNavVisRange = "{931, 1268}";
+			sepNavWindowFrame = "{{279, 11}, {628, 925}}";
+		};
+	};
+	E02BB79F126CC224006E46A2 /* CCMenuItem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {690, 5124}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2230}";
+			sepNavWindowFrame = "{{72, 12}, {749, 1113}}";
+		};
+	};
+	E02BB7A0126CC224006E46A2 /* CCMenuItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {690, 9450}}";
+			sepNavSelRange = "{9851, 33}";
+			sepNavVisRange = "{8877, 2435}";
+		};
+	};
+	E02BB7A3126CC224006E46A2 /* CCNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 7070}}";
+			sepNavSelRange = "{6352, 49}";
+			sepNavVisRange = "{6279, 2384}";
+			sepNavWindowFrame = "{{72, 260}, {721, 865}}";
+		};
+	};
+	E02BB7A4126CC224006E46A2 /* CCNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 12236}}";
+			sepNavSelRange = "{15693, 0}";
+			sepNavVisRange = "{14874, 1110}";
+			sepNavWindowFrame = "{{95, 239}, {721, 865}}";
+		};
+	};
+	E02BB7D7126CC224006E46A2 /* CCTransition.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 14742}}";
+			sepNavSelRange = "{18573, 0}";
+			sepNavVisRange = "{17569, 1557}";
+			sepNavWindowFrame = "{{164, 84}, {1078, 957}}";
+		};
+	};
+	E02BB7DD126CC224006E46A2 /* cocos2d.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1054, 2492}}";
+			sepNavSelRange = "{4215, 0}";
+			sepNavVisRange = "{3764, 587}";
+		};
+	};
+	E02BB7E6126CC224006E46A2 /* CCTouchDispatcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 1792}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2658, 1640}";
+			sepNavWindowFrame = "{{187, 155}, {721, 865}}";
+		};
+	};
+	E02BB7E7126CC224006E46A2 /* CCTouchDispatcher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 4424}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1908}";
+		};
+	};
+	E02BB804126CC224006E46A2 /* CGPointExtension.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 4438}}";
+			sepNavSelRange = "{2179, 11}";
+			sepNavVisRange = "{1508, 1162}";
+			sepNavWindowFrame = "{{256, 92}, {721, 865}}";
+		};
+	};
+	E0F80F5D120A0182005866B8 /* GameConfig.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 752}}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{0, 523}";
+			sepNavWindowFrame = "{{118, 218}, {721, 865}}";
+		};
+	};
+	E0F80F5F120A0182005866B8 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {662, 2254}}";
+			sepNavSelRange = "{1477, 0}";
+			sepNavVisRange = "{1182, 1607}";
+			sepNavWindowFrame = "{{95, 239}, {721, 865}}";
+		};
+	};
+}
